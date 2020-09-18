@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="220" started-at="2020-09-09T16:15:08Z" finished-at="2020-09-09T16:15:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="220" started-at="2020-09-09T16:15:08Z" finished-at="2020-09-09T16:15:08Z">
+      <class name="org.parallel.ClassA">
+        <test-method status="PASS" signature="testCase11()[pri:0, instance:org.parallel.ClassA@cc285f4]" name="testCase11" duration-ms="38" started-at="2020-09-09T16:15:08Z" finished-at="2020-09-09T16:15:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase11 -->
+        <test-method status="PASS" signature="testCase12()[pri:0, instance:org.parallel.ClassA@cc285f4]" name="testCase12" duration-ms="0" started-at="2020-09-09T16:15:08Z" finished-at="2020-09-09T16:15:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase12 -->
+        <test-method status="PASS" signature="testCase13()[pri:0, instance:org.parallel.ClassA@cc285f4]" name="testCase13" duration-ms="0" started-at="2020-09-09T16:15:08Z" finished-at="2020-09-09T16:15:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase13 -->
+        <test-method status="PASS" signature="testCase14()[pri:0, instance:org.parallel.ClassA@cc285f4]" name="testCase14" duration-ms="16" started-at="2020-09-09T16:15:08Z" finished-at="2020-09-09T16:15:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase14 -->
+        <test-method status="PASS" signature="testCase15()[pri:0, instance:org.parallel.ClassA@cc285f4]" name="testCase15" duration-ms="20" started-at="2020-09-09T16:15:08Z" finished-at="2020-09-09T16:15:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase15 -->
+      </class> <!-- org.parallel.ClassA -->
+      <class name="org.parallel.ClassB">
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:org.parallel.ClassB@55f3ddb1]" name="testCase1" duration-ms="54" started-at="2020-09-09T16:15:08Z" finished-at="2020-09-09T16:15:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:org.parallel.ClassB@55f3ddb1]" name="testCase2" duration-ms="31" started-at="2020-09-09T16:15:08Z" finished-at="2020-09-09T16:15:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="testCase3()[pri:0, instance:org.parallel.ClassB@55f3ddb1]" name="testCase3" duration-ms="16" started-at="2020-09-09T16:15:08Z" finished-at="2020-09-09T16:15:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+        <test-method status="PASS" signature="testCase4()[pri:0, instance:org.parallel.ClassB@55f3ddb1]" name="testCase4" duration-ms="15" started-at="2020-09-09T16:15:08Z" finished-at="2020-09-09T16:15:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase4 -->
+        <test-method status="PASS" signature="testCase5()[pri:0, instance:org.parallel.ClassB@55f3ddb1]" name="testCase5" duration-ms="2" started-at="2020-09-09T16:15:08Z" finished-at="2020-09-09T16:15:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase5 -->
+      </class> <!-- org.parallel.ClassB -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

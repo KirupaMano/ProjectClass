@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="classes" thread-count="10">
+  <test name="Test">
+ <parameter name="email" value="Kirupatesting"></parameter>
+ <parameter name="password" value="abcd#1234"></parameter>
+    <classes>
+      <class name="org.parallel.ClassA"></class>
+      <class name="org.parallel.ClassB"></class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
