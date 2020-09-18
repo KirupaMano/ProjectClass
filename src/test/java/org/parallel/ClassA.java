@@ -16,10 +16,17 @@ public class ClassA{
 	private void testCase14() {
 System.out.println("Test Case Number 14: "+Thread.currentThread().getId());
 	}
-	
 	@Test
 	private void testCase15() {
 		System.out.println("Test Case Number 15: "+Thread.currentThread().getId());
+	}
+	@Test 
+	private void testCase16() {
+		System.out.println("Test Case Number 6: "+Thread.currentThread().getId());
+	}
+	@Test 
+	private void testCase17() {
+		System.out.println("Test Case Number 7: "+Thread.currentThread().getId());
 	}
 	@Test
 	private void testCase11() {

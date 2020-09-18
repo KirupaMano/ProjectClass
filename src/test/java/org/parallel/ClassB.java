@@ -20,14 +20,7 @@ System.out.println("Test Case Number 4: "+Thread.currentThread().getId());
 	private void testCase5() {
 		System.out.println("Test Case Number 5: "+Thread.currentThread().getId());
 	}
-	@Test 
-	private void testCase6() {
-		System.out.println("Test Case Number 6: "+Thread.currentThread().getId());
-	}
-	@Test 
-	private void testCase7() {
-		System.out.println("Test Case Number 7: "+Thread.currentThread().getId());
-	}
+	
 	@Test 
 	
 	private void testCase1() {
